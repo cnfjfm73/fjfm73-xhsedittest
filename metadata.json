@@ -1,0 +1,5 @@
+{
+  "name": "XHS 封面正文排版",
+  "description": "A Xiaohongshu (Little Red Book) visual content generator. supports AI text generation and visual style cloning from images.",
+  "requestFramePermissions": []
+}
